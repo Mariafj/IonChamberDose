@@ -1,5 +1,6 @@
 # IonChamberDose
-# 2019 Maria F.J.
+
+Created by Maria F.J., 2019
 
 A binary script (ESAPI 13.7) for calculating the field dose within a parallel plate ionisation chamber perpendicular to a proton beam.
 
